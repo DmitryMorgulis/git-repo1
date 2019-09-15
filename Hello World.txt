@@ -1,2 +1,2 @@
-print("Hello wolrd!")
-print("Hello wolrd!2222")
+print("Hello wolrd!;")
+print("Hello wolrd!2222;")
